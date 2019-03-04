@@ -19,8 +19,5 @@
         "popper.js": "^1.12",
         "vue": "^2.6.8",
         "vue-template-compiler": "^2.5.9"
-    },
-    "dependencies": {
-        "webpack": "^3.11.0"
     }
 }
