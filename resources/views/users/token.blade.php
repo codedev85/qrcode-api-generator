@@ -17,7 +17,7 @@
 
         <div class="clearfix"></div>
         <div class="box box-primary">
-            <div class="box-body">
+            <div class="box-body" id="app">
                 <div class="row" style="padding-left: 20px">
                         <passport-clients></passport-clients>
                         <passport-authorized-clients></passport-authorized-clients>

@@ -67,7 +67,7 @@
 /* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
-(function webpackMissingModule() { throw new Error("Cannot find module \"C:\\xampppp\\htdocs\\fullstack-project\\qrcode\\laravel-qrcode-admin\\resources\\js\\app.js\""); }());
+(function webpackMissingModule() { throw new Error("Cannot find module \"C:\\xampppp\\htdocs\\fullstack-project\\qrcode\\qrcode-api-generator\\resources\\js\\app.js\""); }());
 module.exports = __webpack_require__(1);
 
 
